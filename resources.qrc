@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>espresso.png</file>
+        <file>ice.png</file>
+        <file>milk.png</file>
+        <file>bottle.png</file>
+        <file>cup.png</file>
+        <file>hot-water.png</file>
+        <file>coffee.png</file>
+    </qresource>
+</RCC>
